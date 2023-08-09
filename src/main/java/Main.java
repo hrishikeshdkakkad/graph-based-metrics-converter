@@ -23,6 +23,5 @@ public class Main {
         Computer computer = new Computer(graph, query);
         double result = computer.process();
         System.out.println(result);
-
     }
 }
